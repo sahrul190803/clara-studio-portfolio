@@ -1,0 +1,13 @@
+node_modules
+.git
+.vercel
+out
+data
+uploads
+*.log
+Cinematic TV-Headed Website Thumbnail.png
+cv saya.pdf
+Prompts-Clara_Studio.pdf
+file_0000000095ac81fa86c9ea9820aa32af.png
+server.log
+server.err.log

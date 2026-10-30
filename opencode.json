@@ -1,0 +1,10 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "fish-audio": {
+      "type": "remote",
+      "url": "https://api.fish.audio/mcp",
+      "enabled": true
+    }
+  }
+}

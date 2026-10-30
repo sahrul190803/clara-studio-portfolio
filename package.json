@@ -1,0 +1,33 @@
+{
+  "name": "sarul-ibad-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "api": "node server/index.mjs --port 3001",
+    "build": "tsc -b && vite build",
+    "serve": "node server/index.mjs",
+    "start": "npm run build && node server/index.mjs",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fishaudio/agent-client": "^0.3.0",
+    "@fishaudio/agent-react": "^0.3.0",
+    "express": "^4.22.3",
+    "lucide-react": "^0.468.0",
+    "multer": "^2.5.0",
+    "pg": "^8.23.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/three": "^0.170.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.5"
+  }
+}

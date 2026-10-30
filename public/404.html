@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="id" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#121211" />
+    <title>404 — Halaman tidak ditemukan · Sa'rul Ibad</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..600&family=Manrope:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --bg: #121211;
+        --ink: #f1efea;
+        --ink-2: #c7c3bb;
+        --ink-3: #8d8880;
+        --line: #ffffff1f;
+        --sage: #a2b399;
+        --clay: #c8a26e;
+        --serif: "Fraunces", Georgia, serif;
+        --ui: "Manrope", system-ui, sans-serif;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        min-height: 100svh;
+        display: grid;
+        place-items: center;
+        padding: 32px;
+        background:
+          radial-gradient(circle at 72% 30%, #3b3b3a 0%, #232322 32%, #121211 64%, #080808 100%);
+        color: var(--ink);
+        font-family: var(--ui);
+      }
+      .card {
+        width: min(720px, 100%);
+        text-align: center;
+        border: 1px solid var(--line);
+        border-radius: 28px;
+        padding: clamp(36px, 7vw, 72px) clamp(24px, 6vw, 64px);
+        background: #1a1a198c;
+        backdrop-filter: blur(18px);
+        box-shadow: 0 40px 80px -40px #000;
+      }
+      .eye { width: 64px; height: 64px; margin: 0 auto 26px; display: block; }
+      .code {
+        font-family: var(--serif);
+        font-size: clamp(84px, 20vw, 168px);
+        line-height: .8;
+        letter-spacing: -.06em;
+        margin: 0;
+        background: linear-gradient(120deg, var(--ink), var(--clay));
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+      }
+      h1 { font-family: var(--serif); font-weight: 500; font-size: clamp(26px, 4vw, 36px); margin: 22px 0 12px; }
+      p { color: var(--ink-2); line-height: 1.7; margin: 0 auto 30px; max-width: 44ch; }
+      .actions { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+      a {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        height: 46px;
+        padding: 0 22px;
+        border-radius: 999px;
+        text-decoration: none;
+        font-weight: 700;
+        font-size: 14px;
+        transition: transform .2s ease, background .2s ease, border-color .2s ease;
+      }
+      a.primary { background: var(--ink); color: var(--bg); }
+      a.ghost { border: 1px solid var(--line); color: var(--ink); }
+      a:hover { transform: translateY(-2px); }
+      a.ghost:hover { border-color: var(--sage); }
+      .eyebrow {
+        margin-top: 30px;
+        font-size: 11px;
+        letter-spacing: .3em;
+        text-transform: uppercase;
+        color: var(--ink-3);
+      }
+    </style>
+  </head>
+  <body>
+    <main class="card">
+      <svg class="eye" viewBox="0 0 64 64" aria-hidden="true">
+        <rect x="2" y="10" width="60" height="46" rx="10" fill="#0a0a09" stroke="#a2b399" stroke-opacity=".7" stroke-width="2" />
+        <path d="M10 33 Q32 17 54 33 Q32 49 10 33 Z" fill="#c8a26e" />
+        <circle cx="32" cy="33" r="9" fill="#0a0a09" />
+        <circle cx="28.6" cy="29.6" r="2.6" fill="#f1efea" />
+      </svg>
+      <p class="code">404</p>
+      <h1>Halaman tidak ditemukan</h1>
+      <p>
+        Tautan yang Anda buka mungkin sudah dipindahkan atau tidak pernah ada. Clara juga sudah
+        mencari, tapi layarnya kosong.
+      </p>
+      <div class="actions">
+        <a class="primary" href="/">Kembali ke Beranda</a>
+        <a class="ghost" href="/#kontak">Hubungi Sa'rul</a>
+      </div>
+      <p class="eyebrow">Sa'rul Ibad — Portfolio 2026</p>
+    </main>
+  </body>
+</html>

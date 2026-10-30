@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Sa'rul Ibad">
+  <rect width="64" height="64" rx="15" fill="#121211"/>
+  <rect x="11" y="14" width="42" height="34" rx="7" fill="#0a0a09" stroke="#a2b399" stroke-opacity=".75" stroke-width="2"/>
+  <path d="M18 31.5 Q23.5 25.8 29 31.5 Q23.5 37.2 18 31.5 Z" fill="#c8a26e"/>
+  <path d="M35 31.5 Q40.5 25.8 46 31.5 Q40.5 37.2 35 31.5 Z" fill="#c8a26e"/>
+  <circle cx="23.5" cy="31.5" r="2.6" fill="#0a0a09"/>
+  <circle cx="40.5" cy="31.5" r="2.6" fill="#0a0a09"/>
+  <circle cx="22.5" cy="30.4" r=".9" fill="#f1efea"/>
+  <circle cx="39.5" cy="30.4" r=".9" fill="#f1efea"/>
+  <path d="M27 14V9M37 14V9" stroke="#c8a26e" stroke-linecap="round" stroke-width="2"/>
+</svg>

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "npm run build",
+  "outputDirectory": "out",
+  "functions": {
+    "api/*.mjs": {
+      "maxDuration": 30
+    }
+  },
+  "rewrites": [
+    { "source": "/uploads/(.*)", "destination": "/api/uploads/$1" },
+    { "source": "/admin", "destination": "/index.html" },
+    { "source": "/admin/(.*)", "destination": "/index.html" }
+  ]
+}

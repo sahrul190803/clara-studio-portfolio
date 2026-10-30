@@ -1,0 +1,257 @@
+{
+  "categories": [
+    "Desain",
+    "Video",
+    "Administrasi",
+    "Coding"
+  ],
+  "projects": [
+    {
+      "id": "rebranding-feed-nahdlatul",
+      "title": "Rebranding Feed Nahdlatul",
+      "category": "Desain",
+      "year": "2025",
+      "cover": "/images/cover-rebranding.svg",
+      "summary": "Sistem visual Instagram yang konsisten untuk memperkuat identitas komunitas Nahdlatul.",
+      "description": "Membangun ulang arah visual feed Instagram komunitas: dari pemilihan warna, tipografi, grid, hingga template konten harian. Tujuannya agar setiap unggahan terasa satu keluarga dan lebih mudah dikenali.",
+      "role": "Desainer grafis & content planner",
+      "goals": [
+        "Menyatukan identitas visual lintas jenis konten",
+        "Meningkatkan keterbacaan teks pada layar ponsel",
+        "Mempermudah tim dalam memproduksi konten harian"
+      ],
+      "process": [
+        "Riset konten dan audit visual feed sebelumnya",
+        "Menyusun moodboard, palet warna, dan tipografi",
+        "Membuat template grid, poster, dan carousel",
+        "Produksi 12 konten perdana dan evaluasi bersama tim"
+      ],
+      "tools": [
+        "Canva",
+        "Adobe Photoshop",
+        "Google Sheets"
+      ],
+      "result": "Feed menjadi lebih rapi dan konsisten, dengan waktu produksi konten berkurang sekitar 40%.",
+      "featured": true
+    },
+    {
+      "id": "aftermovie-sertifikasi-ppg",
+      "title": "Aftermovie Sertifikasi PPG",
+      "category": "Video",
+      "year": "2024",
+      "cover": "/images/cover-aftermovie.svg",
+      "summary": "Aftermovie dua menit yang merangkum atmosfer kegiatan sertifikasi guru dari balik layar.",
+      "description": "Bertanggung jawab dalam perekaman dan pengolahan dokumentasi kegiatan sertifikasi PPG. Materi diolah menjadi aftermovie singkat yang menonjolkan momen, suasana, dan partisipasi peserta.",
+      "role": "Videografer & editor",
+      "goals": [
+        "Merekam seluruh rangkaian kegiatan secara menyeluruh",
+        "Menjaga kualitas audio visual di setiap sesi",
+        "Menghasilkan aftermovie yang layak dibagikan ke publik"
+      ],
+      "process": [
+        "Menyusun treatment dan daftar momen penting",
+        "Pengambilan gambar multi-angle selama kegiatan",
+        "Seleksi footage dan penyusunan alur cerita",
+        "Editing, color grading, dan penyesuaian audio"
+      ],
+      "tools": [
+        "Kamera mirrorless",
+        "Adobe Premiere Pro",
+        "Adobe Audition"
+      ],
+      "result": "Dokumentasi kegiatan selesai tepat waktu dan aftermovie digunakan sebagai konten publikasi acara.",
+      "featured": true
+    },
+    {
+      "id": "live-streaming-wisuda",
+      "title": "Live Streaming Wisuda",
+      "category": "Video",
+      "year": "2024",
+      "cover": "/images/cover-livestream.svg",
+      "summary": "Produksi siaran langsung multi-kamera untuk prosesi wisuda yang berlangsung beberapa jam.",
+      "description": "Mengoperasikan sistem live streaming untuk acara wisuda, mencakup pengaturan kamera, perpindahan scene, tata suara, dan pemantauan kualitas siaran secara real-time.",
+      "role": "Operator live streaming",
+      "goals": [
+        "Menjaga siaran tetap stabil selama acara",
+        "Menampilkan sudut pandang panggung dan suasana secara bergantian",
+        "Memastikan audio pembicara terdengar jelas"
+      ],
+      "process": [
+        "Persiapan perangkat dan uji koneksi sebelum acara",
+        "Pengaturan scene, overlay, dan audio mixer",
+        "Operasi siaran langsung dengan pengawasan kualitas",
+        "Penyimpanan rekaman dan serah terima file"
+      ],
+      "tools": [
+        "OBS Studio",
+        "Kamera multi-angle",
+        "Audio mixer"
+      ],
+      "result": "Siaran berjalan lancar tanpa kendala berarti dan rekaman acara tersimpan lengkap.",
+      "featured": true
+    },
+    {
+      "id": "website-profil-pesantren",
+      "title": "Website Profil Pesantren",
+      "category": "Coding",
+      "year": "2025",
+      "cover": "/images/cover-website.svg",
+      "summary": "Halaman profil pesantren yang responsif dan mudah diperbarui untuk kebutuhan informasi publik.",
+      "description": "Membangun website profil sederhana dengan struktur konten yang jelas: profil, program, kegiatan, dan kontak. Fokus pada tampilan responsif, navigasi yang mudah, dan performa halaman yang ringan.",
+      "role": "Front-end developer",
+      "goals": [
+        "Menyajikan informasi pesantren secara terstruktur",
+        "Memastikan tampilan nyaman di ponsel maupun desktop",
+        "Membuat struktur kode yang mudah dikembangkan"
+      ],
+      "process": [
+        "Menyusun informasi dan arsitektur halaman",
+        "Membuat wireframe dan desain antarmuka",
+        "Implementasi HTML, CSS, dan JavaScript",
+        "Pengujian responsif dan perbaikan detail"
+      ],
+      "tools": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "VS Code"
+      ],
+      "result": "Website dapat diakses dengan baik di berbagai ukuran layar dan memudahkan publik mengenal pesantren."
+    },
+    {
+      "id": "poster-hari-santri",
+      "title": "Poster Hari Santri",
+      "category": "Desain",
+      "year": "2024",
+      "cover": "/images/cover-poster.svg",
+      "summary": "Key visual peringatan Hari Santri dengan tipografi tegas dan nuansa tradisional yang modern.",
+      "description": "Merancang poster utama untuk peringatan Hari Santri, termasuk pemilihan elemen visual, hierarki informasi, dan penyesuaian format untuk media cetak serta unggahan digital.",
+      "role": "Desainer grafis",
+      "goals": [
+        "Menonjolkan pesan utama acara",
+        "Mengangkat nuansa tradisional tanpa terlihat kuno",
+        "Menyediakan format cetak dan digital yang konsisten"
+      ],
+      "process": [
+        "Mengumpulkan referensi visual dan pesan acara",
+        "Eksplorasi tipografi dan komposisi",
+        "Penyusunan elemen ornamen dan warna",
+        "Penyesuaian ukuran untuk cetak dan media sosial"
+      ],
+      "tools": [
+        "CorelDRAW",
+        "Adobe Photoshop"
+      ],
+      "result": "Poster digunakan sebagai materi publikasi resmi acara dan dibagikan ulang oleh komunitas."
+    },
+    {
+      "id": "dashboard-data-santri",
+      "title": "Dashboard Data Santri",
+      "category": "Coding",
+      "year": "2025",
+      "cover": "/images/cover-dashboard.svg",
+      "summary": "Antarmuka dashboard sederhana untuk membaca dan memantau data santri secara visual.",
+      "description": "Membuat prototipe dashboard dengan kartu ringkasan, tabel data, dan grafik sederhana. Bertujuan melatih pengolahan data sekaligus menghadirkan tampilan yang mudah dipahami pengurus.",
+      "role": "Front-end & data entry",
+      "goals": [
+        "Merapikan data yang sebelumnya tersebar",
+        "Menampilkan ringkasan data penting dalam satu layar",
+        "Membuat pencarian dan filter data lebih cepat"
+      ],
+      "process": [
+        "Pembersihan dan penyeragaman format data",
+        "Perancangan layout dashboard",
+        "Implementasi tabel, filter, dan grafik",
+        "Pengujian dengan data contoh"
+      ],
+      "tools": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Chart.js"
+      ],
+      "result": "Data lebih mudah dibaca dan proses rekap manual menjadi lebih singkat."
+    },
+    {
+      "id": "rekap-administrasi-digital",
+      "title": "Rekap Administrasi Digital",
+      "category": "Administrasi",
+      "year": "2024",
+      "cover": "/images/cover-administrasi.svg",
+      "summary": "Sistem rekap administrasi berbasis spreadsheet dengan validasi dan ringkasan otomatis.",
+      "description": "Menyusun ulang format rekap administrasi agar konsisten, mengurangi duplikasi data, dan mempermudah penyusunan laporan bulanan menggunakan formula serta pivot table.",
+      "role": "Administrasi & pengolah data",
+      "goals": [
+        "Mengurangi kesalahan input data",
+        "Mempercepat proses rekap dan pelaporan",
+        "Membuat format yang mudah dipahami pengurus lain"
+      ],
+      "process": [
+        "Inventarisasi kolom dan kebutuhan laporan",
+        "Pembuatan struktur tabel dan validasi data",
+        "Penyusunan formula rekap otomatis",
+        "Uji coba dan pendampingan penggunaan"
+      ],
+      "tools": [
+        "Microsoft Excel",
+        "Google Sheets"
+      ],
+      "result": "Rekap bulanan dapat diselesaikan lebih cepat dengan tingkat kesalahan input yang jauh lebih rendah."
+    },
+    {
+      "id": "dokumentasi-fotografi",
+      "title": "Dokumentasi Fotografi Kegiatan",
+      "category": "Video",
+      "year": "2023",
+      "cover": "/images/cover-fotografi.svg",
+      "summary": "Liputan foto kegiatan organisasi untuk kebutuhan dokumentasi dan publikasi media sosial.",
+      "description": "Mengambil dan mengolah foto kegiatan organisasi, mulai dari perencanaan momen penting, pengaturan cahaya, hingga penyuntingan warna agar hasil konsisten dengan identitas acara.",
+      "role": "Fotografer & retoucher",
+      "goals": [
+        "Mendapatkan momen utama secara utuh",
+        "Menjaga konsistensi warna antar-foto",
+        "Menyiapkan materi untuk kebutuhan promosi"
+      ],
+      "process": [
+        "Brief acara dan penentuan sudut pengambilan",
+        "Pemotretan kegiatan",
+        "Seleksi dan penyuntingan warna",
+        "Ekspor format untuk media sosial dan arsip"
+      ],
+      "tools": [
+        "Kamera DSLR",
+        "Adobe Lightroom",
+        "Adobe Photoshop"
+      ],
+      "result": "Rangkaian foto digunakan untuk publikasi acara dan arsip dokumentasi organisasi."
+    },
+    {
+      "id": "katalog-produk-umkm",
+      "title": "Katalog Produk UMKM",
+      "category": "Desain",
+      "year": "2023",
+      "cover": "/images/cover-katalog.svg",
+      "summary": "Katalog produk digital yang menonjolkan detail produk dengan tata letak bersih dan modern.",
+      "description": "Merancang katalog produk untuk pelaku UMKM, mencakup penataan foto, deskripsi singkat, harga, dan informasi pemesanan dalam format digital yang mudah dibagikan.",
+      "role": "Desainer grafis",
+      "goals": [
+        "Menampilkan produk secara jelas dan menarik",
+        "Memudahkan calon pembeli memahami informasi",
+        "Menyiapkan format yang siap dibagikan lewat WhatsApp"
+      ],
+      "process": [
+        "Pengelompokan produk dan informasi",
+        "Pemilihan grid dan gaya tipografi",
+        "Penataan foto dan deskripsi",
+        "Ekspor PDF siap bagikan"
+      ],
+      "tools": [
+        "Canva",
+        "Adobe InDesign",
+        "Adobe Photoshop"
+      ],
+      "result": "Katalog digital siap dibagikan dan mempermudah proses promosi produk ke calon pembeli."
+    }
+  ],
+  "updatedAt": "2026-10-30T05:01:06.554Z"
+}
